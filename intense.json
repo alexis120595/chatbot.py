@@ -1,0 +1,36 @@
+{
+    "intens":[
+{
+    "tag":"saludo",
+    "patterns":[
+        "Hola",
+        "Que tal",
+        "Buenos dias",
+        "Buenas tardes",
+        "Buenas noches"
+    ],
+    "responses":[
+        "Hola, ¿En que puedo ayudarte?",
+        "Hola, ¿Que tal?",
+        "Hola, ¿Como estas?",
+        "Hola, ¿En que puedo ayudarte?",
+        "Hola, ¿Que tal?",
+        "Hola, ¿Como estas?"
+    ]
+},
+
+{
+            "tag":"nombre",
+            "patterns":[
+                "¿Como te llamas?",
+                "¿Cual es tu nombre?",
+                "¿Quien eres?"
+            ],
+            "responses":[
+                "Soy un bot",
+                "Mi nombre es bot",
+                "Me llamo bot"
+            ]         
+}
+    ]
+}
